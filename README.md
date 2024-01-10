@@ -14,7 +14,6 @@
 ![Express JS](https://img.shields.io/badge/-Express-CCFC6C?style=flat-square&logo=express)
 ![Mongo DB](https://img.shields.io/badge/-MongoDB-E34F26?style=flat-square&logo=mongo)
 ![Python](https://img.shields.io/badge/-Python-CCFC6C?style=flat-square&logo=python)
-![Dart]("https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg")
 <div style="display: inline_block"><br>
   <img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
