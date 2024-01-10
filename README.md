@@ -3,13 +3,7 @@
 - 🌱 I’m currently learning how to start full stack development
 - 💞️ I’m looking to collaborate on gitthub.com
 - 📫 How to reach me allomohangelalex@gmail.com / +225 07 04 75 09 54
-
-<div align="center">
-  <a href="https://github.com/abraaocrvlh42">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=abraaocrvlh42&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abraaocrvlh42&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
+  
 ### Language used so far:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -20,13 +14,7 @@
 ![Express JS](https://img.shields.io/badge/-Express-CCFC6C?style=flat-square&logo=express)
 ![Mongo DB](https://img.shields.io/badge/-MongoDB-E34F26?style=flat-square&logo=mongo)
 ![Python](https://img.shields.io/badge/-Python-CCFC6C?style=flat-square&logo=python)
-
-
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 </div>
