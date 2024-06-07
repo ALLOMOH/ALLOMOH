@@ -1,4 +1,5 @@
-![image]([https://github.com/ALLOMOH/ALLOMOH/assets/105246117/0b73a1c1-eaa8-4d54-bbf4-3319173634ba](https://github.com/ALLOMOH/ALLOMOH/blob/main/code.gif))
+![image](https://github.com/ALLOMOH/ALLOMOH/code.gif)
+
 
 <div align="center'>
   <img src="https://github.com/ALLOMOH/ALLOMOH/blob/main/code.gif" alt="code">
