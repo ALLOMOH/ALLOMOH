@@ -1,6 +1,6 @@
 
 <div align="center'>
-  <img width="200" heigth="90" src="https://github.com/ALLOMOH/ALLOMOH/blob/main/code.gif?raw=true" alt="code">
+  ![https://github.com/ALLOMOH/ALLOMOH/blob/main/code.gif?raw=true](https://github.com/ALLOMOH/ALLOMOH/blob/main/code.gif)
 </div>
 
 - 👋 Hi, I’m @ALLOMOH
