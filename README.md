@@ -1,7 +1,7 @@
 
 <div align="center'>
-  ![https://github.com/ALLOMOH/ALLOMOH/blob/main/code.gif?raw=true](https://github.com/ALLOMOH/ALLOMOH/blob/main/code.gif)
 </div>
+![https://github.com/ALLOMOH/ALLOMOH/blob/main/code.gif?raw=true](https://github.com/ALLOMOH/ALLOMOH/blob/main/code.gif)
 
 - 👋 Hi, I’m @ALLOMOH
 - 👀 I’m interested in web and mobile application development,
