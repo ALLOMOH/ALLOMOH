@@ -1,3 +1,8 @@
+
+<div align="center'>
+  <img src="ALLOMOH/code.gif">
+</div>
+
 - 👋 Hi, I’m @ALLOMOH
 - 👀 I’m interested in web and mobile application development,
 - 🌱 I’m currently learning how to start full stack development
