@@ -1,6 +1,6 @@
 
 <div align="center'>
-  <img src="ALLOMOH/code.gif">
+  <img src="code.gif">
 </div>
 
 - 👋 Hi, I’m @ALLOMOH
