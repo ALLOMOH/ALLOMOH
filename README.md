@@ -1,8 +1,7 @@
 
 <div align="center'>
+  <img src="https://github.com/ALLOMOH/ALLOMOH/blob/main/code.gif" alt="code">
 </div>
-![https://github.com/ALLOMOH/ALLOMOH/blob/main/code.gif?raw=true](https://github.com/ALLOMOH/ALLOMOH/blob/main/code.gif)
-
 - 👋 Hi, I’m @ALLOMOH
 - 👀 I’m interested in web and mobile application development,
 - 🌱 I’m currently learning how to start full stack development
