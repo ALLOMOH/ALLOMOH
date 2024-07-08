@@ -2,11 +2,14 @@
 <!--   ![image](https://github.com/ALLOMOH/ALLOMOH/blob/main/code.gif?raw=true) -->
   <img src="https://github.com/ALLOMOH/ALLOMOH/blob/main/code.gif?raw=true">
 </div>
-- 👋 Hi, I’m @ALLOMOH
-- 👀 I’m interested in web and mobile application development,
-- 🌱 I’m currently learning how to start full stack development
-- 💞️ I’m looking to collaborate on gitthub.com
-- 📫 How to reach me allomohangelalex@gmail.com / +225 07 04 75 09 54
+
+
+🙌 Hi, I’m @ALLOMOH
+=====================
+## 👀 I’m interested in web and mobile application development,
+## 🌱 I’m currently learning how to start full stack development
+## 💞️ I’m looking to collaborate on gitthub.com
+## 📫 How to reach me allomohangelalex@gmail.com / +225 07 04 75 09 54
   
 ### Language used so far:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
