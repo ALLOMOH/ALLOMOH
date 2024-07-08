@@ -1,9 +1,6 @@
-![image](https://github.com/ALLOMOH/ALLOMOH/blob/main/code.gif?raw=true)
-
-
-
-<div align="center'>
-  <img src="https://github.com/ALLOMOH/ALLOMOH/blob/main/code.gif" alt="code">
+<div align="center">
+<!--   ![image](https://github.com/ALLOMOH/ALLOMOH/blob/main/code.gif?raw=true) -->
+  <img src="https://github.com/ALLOMOH/ALLOMOH/blob/main/code.gif?raw=true">
 </div>
 - 👋 Hi, I’m @ALLOMOH
 - 👀 I’m interested in web and mobile application development,
