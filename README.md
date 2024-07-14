@@ -11,9 +11,16 @@
 ## 📫 How to reach me allomohangelalex@gmail.com
 
 ## My GITHUB STAT:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ALLOMOH&theme=dark&border_radius=14.9&mode=weekly)](https://git.io/streak-stats)
+
+<div align=center>
   
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ALLOMOH&theme=dark&border_radius=14.9&mode=weekly)](https://git.io/streak-stats)
+
+</div>
+
+
 ### Language used so far:
+
 <p align="center">
     <img src="https://skillicons.dev/icons?i=git,windows,linux,html,css,javascript,expressjs,java,python,django,sqlite,mongodb,figma,docker,c,cpp,vscode,idea,kotlin,flutter,dart,typescript,nodejs,nextjs,react,php,laravel" />
 </p>
