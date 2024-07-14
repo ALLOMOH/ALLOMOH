@@ -8,7 +8,7 @@
 ## 👀 I’m interested in web and mobile application development,
 ## 🌱 I’m currently learning how to start full stack development
 ## 💞️ I’m looking to collaborate on gitthub.com
-## 📫 How to reach me allomohangelalex@gmail.com / +225 07 04 75 09 54
+## 📫 How to reach me allomohangelalex@gmail.com
 
 ## My GITHUB STAT:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ALLOMOH&theme=dark&border_radius=14.9&mode=weekly)](https://git.io/streak-stats)
