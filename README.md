@@ -1,6 +1,9 @@
+
 <div align="center">
-<!--   ![image](https://github.com/ALLOMOH/ALLOMOH/blob/main/code.gif?raw=true) -->
-  <img src="https://github.com/ALLOMOH/ALLOMOH/blob/main/code.gif?raw=true">
+  <img width="100%" src="https://media.giphy.com/media/mWK6qsWFY6w5xMKG5D/giphy.gif?cid=ecf05e47pv0bsgvfu4xdgz8evr1r14fxj1nljwoo6f0m4ar2&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="dev full">
+  
+<!--   <img src="https://media.giphy.com/media/jBOOXxSJfG8kqMxT11/giphy.gif?cid=ecf05e478twu3tef28q6oow6x8yk19e6gzv09bhae90yd9v7&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="ninja code"> -->
+<!--   <img src="https://github.com/ALLOMOH/ALLOMOH/blob/main/code.gif?raw=true"> -->
 </div>
 
 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Hi, I’m @ALLOMOH
