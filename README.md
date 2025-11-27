@@ -22,7 +22,7 @@
 </div>
 
 
-### Language used so far:
+### language used :
 
 <p align="center">
     <img src="https://skillicons.dev/icons?i=git,windows,ubuntu,kali,vim,linux,html,css,javascript,expressjs,java,python,django,sqlite,mongodb,figma,docker,c,cpp,vscode,idea,kotlin,flutter,dart,typescript,nodejs,nextjs,react,php,laravel" />
